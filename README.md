@@ -8,6 +8,6 @@ Descriptive:
 
 • Data sourced from yfinance - https://finance.yahoo.com/
 
-• Applied a special kind of Recurrent Neural Netwrok - Long Short Term Memory (LSTM)
+• Applied a special kind of Recurrent Neural Network - Long Short Term Memory (LSTM)
 
 • Performed  Visualization to better understand the data.
